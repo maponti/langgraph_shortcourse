@@ -6,21 +6,27 @@ Este diretório reúne os notebooks utilizados nas aulas do mini curso **LangGra
 
 ## Conteúdo dos Notebooks
 
-- `01_introducao_agentes.ipynb`  
-  Introdução aos conceitos de agentes, tipos de agentes e aplicações.
+- `parte_1a_estado_no.ipynb`  
+  Introdução ao conceito de estado em agentes e construção do primeiro grafo com um nó.
 
-- `02_langchain_basico.ipynb`  
-  Fundamentos do LangChain, criação de agentes simples e fluxos básicos.
+- `parte_1b_multi_nos.ipynb`  
+  Criação de grafos com múltiplos nós e fluxos de processamento.
 
-- `03_langgraph_fluxos.ipynb`  
-  Construção de fluxos com LangGraph, exemplos práticos de agentes autônomos.
+- `parte_1c_llm.ipynb`  
+  Integração de LLMs (Large Language Models) em LangGraph.
 
-- `04_multiagentes_colaboracao.ipynb`  
-  Implementação de sistemas multiagentes, colaboração e comunicação entre agentes.
+- `parte_2a_loop.ipynb`  
+  Implementação de loops e controle de fluxo em grafos de agentes.
 
-- `05_exercicios_praticos.ipynb`  
-  Exercícios práticos para fixação dos conceitos apresentados.
+- `parte_2b_react_tools.ipynb`  
+  Uso do padrão ReAct e integração de ferramentas em agentes.
+
+- `parte_2c_react_multiagente.ipynb`  
+  Construção de sistemas multiagentes utilizando o padrão ReAct.
+
+- `parte_2d_tools_api.ipynb`  
+  Integração de agentes com APIs externas e ferramentas avançadas.
 
 ---
 
-**Bons
+**Bons estudos!**
